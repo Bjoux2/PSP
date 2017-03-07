@@ -86,45 +86,45 @@ A collection of all protein structure prediction papers and resources.
 
 # Other Method
 
-## 20
+## 2017
 
-## 20
+## 2016
 
-## 20
+## 2015
 
-## 20
+## 2014
 
-## 20
+## 2013
 
-## 20
+## 2012
 
-## 20
+## 2011
 
-## 20
+## 2010
 
-## 20
+## 2009
 
-## 20
+## 2008
 
-## 20
+## 2007
 
-## 20
+## 2006
 
-## 20
+## 2005
 
-## 20
+## 2004
 
-## 20
+## 2003
 
-# 20
+## 2002
 
-# 20
+## 2001
 
-# 20
+## 2000
 
-# before20
+## before2000
 
-#Evaluation/Measurement
+# Evaluation/Measurement
 **[0]** Zemla A, Venclovas C, Fidelis K and Rost B. "**A modified definition of Sov, a segment-based measure for protein secondary structure prediction assessment.**" PROTEINS: Structure, Function, and Genetics. (1999). [[pdf]](http://s3.amazonaws.com/academia.edu.documents/43880830/A_modified_definition_of_Sov_a_segment-b20160319-11259-1ixzdad.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1488866081&Signature=JQXmxQc2F0x0q2f8QqIo%2BzKIa%2B0%3D&response-content-disposition=inline%3B%20filename%3DA_modified_definition_of_Sov_a_segment-b.pdf) **(Sov.)** :star::star::star::star::star:
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
