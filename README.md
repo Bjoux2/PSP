@@ -139,4 +139,4 @@ A collection of all protein structure prediction papers and resources.
 
 # Influential Researchers
 
-**[0]** **Burkhard Rost** [[Google Scholar]](http://scholar.google.com/citations?user=BP3ofxcAAAAJ&hl=en)
+**[0]** **Burkhard Rost** [[Google Scholar]](http://scholar.google.com/citations?user=BP3ofxcAAAAJ&hl=en). Professor of Computer Science & Computational Biology & Bioinformatics, TUM, Munich.
