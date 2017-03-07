@@ -135,3 +135,8 @@ A collection of all protein structure prediction papers and resources.
 
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+
+# Influential Researchers
+
+**[0]** **Burkhard Rost** [[Google Scholar]](http://scholar.google.com/citations?user=BP3ofxcAAAAJ&hl=en)
