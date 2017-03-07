@@ -2,7 +2,7 @@
 A collection of all protein structure prediction papers and resources.
 
 
-## Deep Learning based
+# Deep Learning based
 
 # 2017
 
@@ -40,14 +40,14 @@ A collection of all protein structure prediction papers and resources.
 
 # 2000
 
-# before 
+## before 
 
 
-## Machine Learning based
+# Machine Learning based
 
-# 20
+## 20
 
-# 20
+## 20
 
 # 20
 
